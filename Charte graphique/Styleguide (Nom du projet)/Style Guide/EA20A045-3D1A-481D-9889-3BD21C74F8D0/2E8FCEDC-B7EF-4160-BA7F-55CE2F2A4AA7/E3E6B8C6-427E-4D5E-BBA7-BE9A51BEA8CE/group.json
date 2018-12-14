@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E3E6B8C6-427E-4D5E-BBA7-BE9A51BEA8CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 262,
+    "width": 801,
+    "x": 0,
+    "y": 483
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CA108C50-3F15-42B2-85DA-46D248406D14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF8237EC-1603-41A0-B74D-251B24D29DFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0125732-1DEE-467E-9FAC-4E87C9DD8004"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50B94B0A-9C17-446A-9F6D-89D4687ED42F"
+    },
+    {
+      "class": "text",
+      "id": "CB871CD8-46FB-4427-97E3-90CBC914B16C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC87E579-D7E1-48D4-8354-B2A5A8FA52E6"
+    }
+  ],
+  "name": "Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

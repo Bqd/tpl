@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3CAA80AD-79B8-43C9-8796-6ECBF0BCA95D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDD5DB6D-E457-4CBB-973F-CC084DC39A73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4E88160-0A2F-4240-9849-EC281C0685CA",
+    "height": 977,
+    "width": 805,
+    "x": 2378,
+    "y": 983
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "280B932E-BAA1-446D-8597-190992F79F7C"
+    },
+    {
+      "class": "text",
+      "id": "7290B49D-F09B-4BCC-97FD-685988BA933F"
+    },
+    {
+      "class": "text",
+      "id": "CA10B984-F662-49E9-BF87-36593C4854AD"
+    },
+    {
+      "class": "text",
+      "id": "57131C9A-C302-434B-A83B-45F4A9029BFD"
+    },
+    {
+      "class": "text",
+      "id": "4E3D357E-9D9F-4197-AC57-D0FA0C378EE4"
+    },
+    {
+      "class": "text",
+      "id": "052A3779-BFBB-4878-AE48-C3F09F737B44"
+    },
+    {
+      "class": "text",
+      "id": "BB813637-BE5F-4506-BB2C-C7FBDCC41746"
+    },
+    {
+      "class": "text",
+      "id": "21E1F71C-B36E-4F4F-9C0E-57D7EF3F09F8"
+    },
+    {
+      "class": "text",
+      "id": "212D2F74-7FA9-4459-8FB5-7783F6BE2D92"
+    },
+    {
+      "class": "text",
+      "id": "535E8C55-DC1D-421A-A14C-748B7D8EA7F4"
+    },
+    {
+      "class": "text",
+      "id": "CD2C8C40-6009-4D98-B86C-861F1F81E858"
+    },
+    {
+      "class": "text",
+      "id": "A2201E6B-07BB-4EB3-B7A9-4BBA04BC4B60"
+    },
+    {
+      "class": "text",
+      "id": "2F33F9D3-B6E0-4A0F-9A98-E0F9DD0C9BD3"
+    },
+    {
+      "class": "text",
+      "id": "60C93B4F-D29A-40FA-9597-BED44A104715"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "541C7235-1684-49DA-8CB5-9E461AC94015"
+    },
+    {
+      "class": "text",
+      "id": "35295DF9-4009-424A-94EC-E27733B4CF31"
+    }
+  ],
+  "name": "Type - Tablet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7698614-2AB7-44E5-846D-40E6DE19FD2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

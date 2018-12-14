@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0698FFAA-FF84-4B93-8891-CE0C8BEFC42E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1005,
+    "width": 854,
+    "x": 1310,
+    "y": 983
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3774DCA2-86DA-4BAB-A019-D33560B1BC2F"
+    },
+    {
+      "class": "text",
+      "id": "9BA97782-9C49-4F7E-B762-93AB87F8E020"
+    },
+    {
+      "class": "text",
+      "id": "7AEEE94B-FC53-4CA1-A69D-CAA2290D894F"
+    },
+    {
+      "class": "text",
+      "id": "26502CAD-1D82-4677-881E-FB07BF410842"
+    },
+    {
+      "class": "text",
+      "id": "AD86F2AC-A2AD-4DE3-949B-31373BBA12BC"
+    },
+    {
+      "class": "text",
+      "id": "3BC3953E-E840-4271-A9E9-212A827148E7"
+    },
+    {
+      "class": "text",
+      "id": "0B9FB3D0-7A5C-47DB-9B63-8A14E38BE741"
+    },
+    {
+      "class": "text",
+      "id": "B46B8B00-DD4B-4B88-BA02-FA900D5A88D2"
+    },
+    {
+      "class": "text",
+      "id": "F0C28468-4216-4A82-8363-ADEBFD149B74"
+    },
+    {
+      "class": "text",
+      "id": "730B3954-C094-439F-881F-B9F7932C588D"
+    },
+    {
+      "class": "text",
+      "id": "51D428A9-302D-434D-8501-163ED739ECC9"
+    },
+    {
+      "class": "text",
+      "id": "41AACC65-C2EE-4CA2-9205-397F5C5C1EEC"
+    },
+    {
+      "class": "text",
+      "id": "BEEFFF54-8F74-4EBF-BD54-88FB4624E6B6"
+    },
+    {
+      "class": "text",
+      "id": "208566F9-6BD3-43C1-A467-49019C253841"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E4134FB-0584-427B-BFFC-15D520C34B2E"
+    },
+    {
+      "class": "text",
+      "id": "1586CE09-2F0A-430B-9BBE-90BA38AA73F7"
+    }
+  ],
+  "name": "Type - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
